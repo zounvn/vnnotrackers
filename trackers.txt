@@ -1,3 +1,5 @@
 # VNG
+api.adtimaserver.vn
 log.adtimaserver.vn
 logv2.mp3.zing.vn
+log.sdk.zadn.vn
