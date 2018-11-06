@@ -5,3 +5,8 @@ logv2.mp3.zing.vn
 log.sdk.zadn.vn
 org.zaloapp.ads.zdn.vn # Zalo ads
 log.api.zaloapp.com # zalo log
+# PUBG Mobile
+tencentgames.helpshift.com
+gameeve.beacon.qq.com
+# Admicro
+admicro.vn
